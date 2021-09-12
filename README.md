@@ -1,4 +1,4 @@
-# chp-python-sdk
+# Demo 4 Duck
 
 ## setup venv ⚙️
 ```
